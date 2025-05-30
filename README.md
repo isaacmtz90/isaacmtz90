@@ -1,3 +1,3 @@
 ### Hi there, I'm Isaac
 
-[![isaacmtz90's GitHub stats](https://github-readme-stats.vercel.app/api?username=isaacmtz90&show_icons=true&count_private=true&theme=radical)](https://github.com/isaacmtz90)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=isaacmtz90&theme=hacker-inverted)](https://git.io/streak-stats)
