@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a **SSE** at [Fortress Technology Solutions](https://github.com/fortress-technology-solutions), passionate about pushing the boundaries of technology through **AI, automation, and innovative problem solving**. Based in the vibrant tech scene of **Nashville, TN** 🎸, I love building solutions that make complex problems simple. I've got experience in multiple industries, incluiding telecom, EdTech and PropTech.
+I'm a **SSE** at [Fortress Technology Solutions](https://github.com/fortress-technology-solutions), passionate about  **AI, automation, and innovative problem solving**. Based in  **Nashville, TN** 🎸, I love building solutions that make complex problems simple, and user experiences simple. I've got experience in multiple industries, incluiding telecom, EdTech and PropTech.
 
 ---
 
